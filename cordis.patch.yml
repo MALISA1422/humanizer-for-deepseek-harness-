@@ -1,0 +1,3 @@
+- insert:
+    - id: humanize
+      name: '@local/humanizer'
